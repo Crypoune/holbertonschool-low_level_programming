@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include "main.h"
 
 /**
  * reset_to_98 - met la valeur de l'entier pointé à 98
