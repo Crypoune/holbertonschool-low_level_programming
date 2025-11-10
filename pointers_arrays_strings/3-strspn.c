@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _strspn - obtient la longueur du préfixe composé uniquement de caractères autorisés
+ * _strspn - obtient la longueur du préfixe
  * @s: la chaîne à analyser
  * @accept: l’ensemble des caractères autorisés
  *
