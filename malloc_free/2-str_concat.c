@@ -2,7 +2,8 @@
 #include <stdlib.h>
 
 /**
- * str_concat - concatène deux chaînes de caractères dans un nouvel espace mémoire
+ * str_concat - concatène deux chaînes de caractères
+ * dans un nouvel espace mémoire
  * @s1: première chaîne
  * @s2: deuxième chaîne
  *
