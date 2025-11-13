@@ -2,9 +2,9 @@
 #include <stdlib.h>
 
 /**
- * free_grid - frees a 2D grid created by alloc_grid
- * @grid: pointer to the 2D array
- * @height: number of rows in the grid
+ * free_grid - libère une grille 2D précédemment allouée par alloc_grid
+ * @grid: pointeur vers la grille
+ * @height: nombre de lignes de la grille
  *
  * Return: void
  */
