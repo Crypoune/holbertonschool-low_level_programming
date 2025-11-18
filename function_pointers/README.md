@@ -12,11 +12,11 @@ Ces concepts sont essentiels pour écrire du code générique, implémenter des 
 
 Le projet contient plusieurs fonctions qui utilisent ou manipulent des pointeurs de fonctions :
 
-`function_pointers.h` : fichier d’en-tête contenant les prototypes et définitions nécessaires.
-`0-print_name.c` : applique une fonction à une chaîne de caractères pour afficher un nom de manière personnalisée.
-`1-array_iterator.c` : exécute une fonction sur chaque élément d’un tableau d’entiers.
-`2-int_index.c` : recherche un entier dans un tableau en utilisant une fonction de comparaison.
-`3-calc.h`, `3-op_functions.c`, `3-get_op_func.c`, `3-main.c` : implémentation d’une mini-calculatrice utilisant un pointeur vers la fonction correspondant à l’opération demandée.
+- `function_pointers.h` : fichier d’en-tête contenant les prototypes et définitions nécessaires.
+- `0-print_name.c` : applique une fonction à une chaîne de caractères pour afficher un nom de manière personnalisée.
+- `1-array_iterator.c` : exécute une fonction sur chaque élément d’un tableau d’entiers.
+- `2-int_index.c` : recherche un entier dans un tableau en utilisant une fonction de comparaison.
+- `3-calc.h`, `3-op_functions.c`, `3-get_op_func.c`, `3-main.c` : implémentation d’une mini-calculatrice utilisant un pointeur vers la fonction correspondant à l’opération demandée.
 
 ## Compilation
 
