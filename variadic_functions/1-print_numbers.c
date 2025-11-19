@@ -5,8 +5,8 @@
 
 /**
  * print_numbers - print numbers separated by a separator
- * @n: number of arguments
  * @separator: separator displayed between numbers
+ * @n: number of arguments
  * Return: nothing
  */
 void print_numbers(const char *separator, const unsigned int n, ...)
