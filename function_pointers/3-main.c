@@ -1,5 +1,19 @@
 #include "3-calc.h"
 
+/**
+ * main - Entry point. Performs simple arithmetic operations.
+ * @argc: Number of command-line arguments.
+ * @argv: Array of command-line argument strings.
+ *
+ * Description: This program takes three arguments:
+ * two integers and an operator.
+ * It performs the operation and prints the result.
+ * Usage: ./calc num1 operator num2
+ * Operators: +, -, *, /, %
+ *
+ * Return: 0 on success, 98 if wrong number of arguments,
+ * 99 if operator is invalid, 100 if division/modulo by zero.
+ */
 int main(int argc, char *argv[])
 {
 	int num1, num2;
